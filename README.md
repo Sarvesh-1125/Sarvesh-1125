@@ -78,29 +78,7 @@
 
 ---
 
-## 🧠 LeetCode
 
-<p align="center">
-
-<a href="https://leetcode.com/u/MhP6IdKV0l/">
-<img src="https://leetcard.jacoblin.cool/MhP6IdKV0l?theme=dark&font=baloo&ext=contest" />
-
-</a>
-
-</p>
-
----
-
-## 🧠 LeetCode
-
-<p align="center">
-<a href="https://leetcode.com/u/MhP6IdKV0l/">
-
-<img height="200" src="https://leetcard.jacoblin.cool/MhP6IdKV0l?theme=dark&font=baloo&ext=contest"/>
-
-</a>
-</p>
----
 
 ## 🔥 LeetCode Badge
 
