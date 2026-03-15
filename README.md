@@ -91,14 +91,15 @@
 
 ---
 
-## 📊 LeetCode Stats
+## 🧠 LeetCode
 
 <p align="center">
+<a href="https://leetcode.com/u/MhP6IdKV0l/">
 
-<img src="https://leetcode-stats-six.vercel.app/?username=MhP6IdKV0l&theme=dark" />
+<img height="200" src="https://leetcard.jacoblin.cool/MhP6IdKV0l?theme=dark&font=baloo&ext=contest"/>
 
+</a>
 </p>
-
 ---
 
 ## 🔥 LeetCode Badge
@@ -108,6 +109,19 @@
 <a href="https://leetcode.com/u/MhP6IdKV0l/">
 
 <img src="https://img.shields.io/badge/LeetCode-MhP6IdKV0l-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+</a>
+
+</p>
+---
+
+## 🧠 LeetCode Profile
+
+<p align="center">
+
+<a href="https://leetcode.com/u/MhP6IdKV0l/">
+
+<img src="https://leetcard.jacoblin.cool/MhP6IdKV0l?theme=dark&font=baloo&ext=heatmap"/>
 
 </a>
 
