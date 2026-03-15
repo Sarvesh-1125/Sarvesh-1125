@@ -84,7 +84,7 @@
 
 ## 🔥 LeetCode Activity
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=YOUR_LEETCODE_USERNAME&theme=dark)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Sarvesh_Choudhary&theme=dark)
 
 ---
 
