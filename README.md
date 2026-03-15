@@ -78,7 +78,7 @@
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sarvesh Choudhary?theme=dark&font=Baloo&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sarvesh_Choudhary?theme=dark&font=Baloo&ext=contest)
 
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)
 
