@@ -44,3 +44,50 @@
 ---
 
 ## 🧰 Tools & Technologies
+
+---
+
+## 📊 GitHub Stats
+
+![Sarvesh GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvesh-1125&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-1125&layout=compact&theme=tokyonight)
+
+---
+
+## 📂 Projects
+
+### ♻️ Smart Dustbin – Automatic Waste Segregation
+Arduino based system that automatically separates wet and dry waste using sensors.
+
+### 🚗 FPGA Accident Reporting System
+FPGA based system that detects accidents and reports automatically.
+
+### 🧬 FPGA TP53 Mutation Detection
+Hardware based mutation detection system using FPGA.
+
+### 📚 Data Structures & Algorithms
+Implementation of various algorithms and data structures in Python.
+
+---
+
+## 📜 Certifications
+
+- Python for Data Science & Machine Learning
+- Data Analytics Foundations
+- Machine Learning with Python
+- Artificial Intelligence Foundations
+- Learning Pandas & NumPy
+- Data Visualization with Matplotlib
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: sarveshchoudhary2006@gmail.com  
+
+🔗 LinkedIn:  
+https://linkedin.com/in/sarvesh-choudhary-5ababb28b
+
+🐙 GitHub:  
+https://github.com/Sarvesh-1125
