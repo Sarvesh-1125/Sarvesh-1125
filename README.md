@@ -45,6 +45,29 @@
 
 ## 🧰 Tools & Technologies
 
+## 🧰 Tools & Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,jupyter,mysql,linux" />
+
+</p>
+
+**Tools**
+
+- Git & GitHub  
+- VS Code  
+- Jupyter Notebook  
+- MySQL  
+- Linux  
+
+**Libraries / Frameworks**
+
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Scikit-Learn  
+
 ---
 
 ## 📊 GitHub Stats
@@ -52,6 +75,28 @@
 ![Sarvesh GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvesh-1125&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-1125&layout=compact&theme=tokyonight)
+
+---
+
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sarvesh Choudhary?theme=dark&font=Baloo&ext=contest)
+
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)
+
+## 🔥 LeetCode Activity
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=YOUR_LEETCODE_USERNAME&theme=dark)
+
+---
+
+## 🧠 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest" />
+
+</p>
 
 ---
 
