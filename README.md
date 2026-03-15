@@ -45,8 +45,6 @@
 
 ## 🧰 Tools & Technologies
 
-## 🧰 Tools & Technologies
-
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,jupyter,mysql,linux" />
