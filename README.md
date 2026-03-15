@@ -76,23 +76,40 @@
 
 ---
 
-## 🧠 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sarvesh_Choudhary?theme=dark&font=Baloo&ext=contest)
-
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)
-
-## 🔥 LeetCode Activity
-
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Sarvesh_Choudhary&theme=dark)
-
 ---
 
 ## 🧠 LeetCode
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest" />
+<a href="https://leetcode.com/u/MhP6IdKV0l/">
+<img src="https://leetcard.jacoblin.cool/MhP6IdKV0l?theme=dark&font=baloo&ext=contest" />
+
+</a>
+
+</p>
+
+---
+
+## 📊 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcode-stats-six.vercel.app/?username=MhP6IdKV0l&theme=dark" />
+
+</p>
+
+---
+
+## 🔥 LeetCode Badge
+
+<p align="center">
+
+<a href="https://leetcode.com/u/MhP6IdKV0l/">
+
+<img src="https://img.shields.io/badge/LeetCode-MhP6IdKV0l-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+</a>
 
 </p>
 
