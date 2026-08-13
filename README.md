@@ -83,11 +83,13 @@ Git • GitHub • VS Code • Jupyter Notebook • MySQL • Linux
 
 | Project | Description | Technologies |
 |---|---|---|
-| 🎯 [Placement Hub](https://github.com/Sarvesh-1125/placement-hub) | Placement management portal designed for students and recruiters | HTML • CSS • JavaScript • SQL |
-| 🤖 AI Resume Analyzer | AI-powered platform for analyzing resumes and providing improvement suggestions | Python • ML • NLP • Web |
-| 🚗 Intelligent Vehicle Accident Reporting System | Real-time accident detection and emergency reporting system | React • Sensors • Cloud |
-| 🧠 DSA & Problem Solving | Implementation and practice of important data structures and algorithms | Python • Java • C |
-
+| ♻️ [Smart Dustbin using IoT](https://github.com/Sarvesh-1125/smartdustbinusingiot) | IoT-based smart waste management system designed to automate waste handling and monitoring | Arduino • IoT • Sensors |
+| 📊 [Student Performance Analysis](https://github.com/Sarvesh-1125/-Student-Performance-Analysis-Project) | Data analysis project focused on understanding student performance and identifying meaningful patterns | Python • Pandas • NumPy • Matplotlib |
+| 🎯 [Placement Hub](https://github.com/Sarvesh-1125/placement-hub) | Placement management platform designed to connect students, recruiters and placement activities | HTML • CSS • JavaScript • SQL |
+| 🏫 [Placement Portal Application](https://github.com/Sarvesh-1125/-Placement-Portal-Application) | Placement portal application for managing student placement activities and recruitment workflows | Web Development • SQL |
+| 🤖 [AI Code Review & Bug Detection System](https://github.com/Sarvesh-1125/AI-Code-Review-Bug-Detection-System) | AI-powered system designed to analyze source code, identify potential bugs and provide code-review insights | Python • AI/ML • Code Analysis |
+| 📈 [Stock Market Analytics Dashboard](https://github.com/Sarvesh-1125/Stock-Market-Analytics-Dashboard) | Interactive dashboard for analyzing and visualizing stock market data and trends | Python • Data Analysis • Visualization |
+| 🛡️ [Network Intrusion Detection System](https://github.com/Sarvesh-1125/Network-Intrusion-Detection-System) | Machine-learning based system for detecting suspicious network activity and potential intrusions | Python • Machine Learning • Cybersecurity |
 ---
 
 ## 💼 Internships & Certifications
