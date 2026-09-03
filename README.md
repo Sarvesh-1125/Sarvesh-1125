@@ -13,7 +13,7 @@
 
 🎓 B.Tech Computer Science Engineering student at **University of Engineering & Management, Jaipur**
 
-💻 Passionate about **Software Development, Full-Stack Development, Artificial Intelligence and Machine Learning**
+💻 Passionate about **Software Development,Web Development, Artificial Intelligence and Machine Learning**
 
 🐍 Experienced with **Python, Java, C, JavaScript and SQL**
 
@@ -23,7 +23,7 @@
 
 🔬 Published research work at **IEEE EAIC 2025**
 
-🌱 Currently improving my **DSA, Full-Stack Development and Machine Learning** skills
+🌱 Currently improving my **DSA, Web Development and Machine Learning** skills
 
 ---
 
