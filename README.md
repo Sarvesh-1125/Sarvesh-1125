@@ -1,6 +1,6 @@
 # Hey there, I'm Sarvesh Choudhary ⚡
 
-### B.Tech CSE | Full-Stack Developer | AI/ML • Data Science | UEM Jaipur
+### B.Tech CSE |Web Developer | AI/ML • Data Science | UEM Jaipur
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sarvesh-choudhary.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvesh-choudhary-5ababb28b/)
